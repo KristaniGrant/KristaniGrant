@@ -1,4 +1,4 @@
-Hello, there! 👋
+#Hello, there! 👋
 I'm a Biomedicine student passionately navigating through the field of Bioinformatics. I'm particularly intrigued by Genetics and I'm always seeking opportunities to combine these interests with technology to create solutions that contribute to the field.
 
 I am continually striving to improve my skills in Python 🐍 and R, and am currently engrossed in sharpening my Data Structures and Algorithms knowledge. The thrill I find in optimisation is something that keeps me going!
